@@ -1,0 +1,22 @@
+{
+  "name": "promises_tut",
+  "version": "1.0.0",
+  "description": "wrokshop tutorial on promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasagna69/promises_solutions.git"
+  },
+  "author": "Thomas Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasagna69/promises_solutions/issues"
+  },
+  "homepage": "https://github.com/lasagna69/promises_solutions#readme",
+  "dependencies": {
+    "es6-promise": "^4.2.5"
+  }
+}
